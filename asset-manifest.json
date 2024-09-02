@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ajaykumar5757/youtube-clone-using-react.git/static/css/main.5dd7c8c8.css",
+    "main.js": "/Ajaykumar5757/youtube-clone-using-react.git/static/js/main.1d3546f2.js",
+    "static/media/photo2.jpg": "/Ajaykumar5757/youtube-clone-using-react.git/static/media/photo2.9ed205f3fcbd24428fc6.jpg",
+    "static/media/photo8.jpg": "/Ajaykumar5757/youtube-clone-using-react.git/static/media/photo8.80a077f2b2133e17a5bb.jpg",
+    "static/media/photo5.jpg": "/Ajaykumar5757/youtube-clone-using-react.git/static/media/photo5.97cf7c862e3bf4f68f98.jpg",
+    "static/media/photo1.jpg": "/Ajaykumar5757/youtube-clone-using-react.git/static/media/photo1.c414120dacdb704dd98e.jpg",
+    "static/media/photo3.jpg": "/Ajaykumar5757/youtube-clone-using-react.git/static/media/photo3.109790ee0c4f3b168dbf.jpg",
+    "static/media/photo7.jpg": "/Ajaykumar5757/youtube-clone-using-react.git/static/media/photo7.b7fe3135a30a5e17ab4a.jpg",
+    "static/media/photo6.jpg": "/Ajaykumar5757/youtube-clone-using-react.git/static/media/photo6.ff2bd6a53e9b0bedc90b.jpg",
+    "static/media/photo9.jpg": "/Ajaykumar5757/youtube-clone-using-react.git/static/media/photo9.51b64fc7f5eabe1c86df.jpg",
+    "static/media/photo4.jpg": "/Ajaykumar5757/youtube-clone-using-react.git/static/media/photo4.0feb5f04c97f65ad9eb4.jpg",
+    "index.html": "/Ajaykumar5757/youtube-clone-using-react.git/index.html",
+    "main.5dd7c8c8.css.map": "/Ajaykumar5757/youtube-clone-using-react.git/static/css/main.5dd7c8c8.css.map",
+    "main.1d3546f2.js.map": "/Ajaykumar5757/youtube-clone-using-react.git/static/js/main.1d3546f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd7c8c8.css",
+    "static/js/main.1d3546f2.js"
+  ]
+}
